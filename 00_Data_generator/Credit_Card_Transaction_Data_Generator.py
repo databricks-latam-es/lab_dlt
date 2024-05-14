@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %sh
-# MAGIC pip install Faker --disable-pip-version-check
+# MAGIC pip install Faker --disable-pip-version-check1
 
 # COMMAND ----------
 
