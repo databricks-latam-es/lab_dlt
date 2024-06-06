@@ -2,7 +2,7 @@
 
 # Databricks Delta Live Tables Hands-on
 
-Entrenamiento práctico en la plataforma Databricks centrado en las funcionalidades de la solución DLT - Delta Live Tables, dirigido a los equipos de Ingeniería de Datos.
+Entrenamiento práctico en la plataforma de Databricks centrado en las funcionalidades de la solución DLT - Delta Live Tables, dirigido a los equipos de Ingeniería de Datos.
 
 # Acerca de Delta Live Tables
 
